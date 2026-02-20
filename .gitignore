@@ -1,0 +1,10 @@
+db_pass
+*.db
+__pycache__/
+*.py[cod]
+.env
+node_modules/
+dist/
+.venv/
+venv/
+*.log
