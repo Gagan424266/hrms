@@ -9,8 +9,8 @@ A lightweight, full-stack HRMS application that allows an admin to manage employ
 | Service | URL |
 |---------|-----|
 | Frontend | https://gagan424266.github.io/hrms/ |
-| Backend API | https://hrms-backend.onrender.com |
-| API Docs | https://hrms-backend.onrender.com/docs |
+| Backend API | https://gaganyadav424266-hrms-backend.hf.space |
+| API Docs | https://gaganyadav424266-hrms-backend.hf.space/docs |
 | GitHub | https://github.com/Gagan424266/hrms |
 
 ---
