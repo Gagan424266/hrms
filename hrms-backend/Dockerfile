@@ -7,7 +7,7 @@ RUN pip install --no-cache-dir fastapi "uvicorn[standard]" sqlalchemy "pydantic[
 
 COPY . .
 
-RUN mkdir -p /app/data
+RUN mkdir -p /app/data && chmod 777 /app/data
 
 ENV DATABASE_URL=sqlite:////app/data/hrms.db
 
